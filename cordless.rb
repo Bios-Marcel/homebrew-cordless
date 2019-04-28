@@ -7,6 +7,7 @@ class Cordless < Formula
     head "https://github.com/Bios-Marcel/cordless.git"
   
     depends_on "go" => :build
+    depends_on "pngpaste" => :recommended
   
     def install
       ENV["GOPATH"] = HOMEBREW_CACHE/"go_cache"
