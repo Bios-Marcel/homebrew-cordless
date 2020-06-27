@@ -2,7 +2,7 @@ class Cordless < Formula
     desc "Discord, but in 1984"
     homepage "https://github.com/Bios-Marcel/cordless"
     url "https://github.com/Bios-Marcel/cordless/archive/.tar.gz"
-    version ""
+    version "2020-06-26"
     sha256 "9ccec588519ffaaaf869f519223c8cb38f22437e38829c891c32f7d42af97f96"
     head "https://github.com/Bios-Marcel/cordless.git"
   
