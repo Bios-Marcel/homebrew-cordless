@@ -1,9 +1,9 @@
 class Cordless < Formula
     desc "Discord, but in 1984"
     homepage "https://github.com/Bios-Marcel/cordless"
-    url "https://github.com/Bios-Marcel/cordless/archive/2020-08-11.tar.gz"
-    version "2020-08-11"
-    sha256 "a979d3b2f7a695afee39ed6d0def3211b401a1c3fa0438a71f611373fa11336d"
+    url "https://github.com/Bios-Marcel/cordless/archive/2020-08-30.tar.gz"
+    version "2020-08-30"
+    sha256 "98791e2e5284cee645155a5aae1d449c0c4b95852f6c4c43062e814855e24cdf"
     head "https://github.com/Bios-Marcel/cordless.git"
   
     depends_on "go" => :build
